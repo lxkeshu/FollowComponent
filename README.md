@@ -1,0 +1,2 @@
+# FollowComponent
+Javascript mini project
